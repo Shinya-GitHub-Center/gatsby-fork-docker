@@ -1,0 +1,11 @@
+REPODIR="hello-world"
+UPSTREAM_ADDR="https://github.com/gatsbyjs/gatsby-starter-hello-world"
+GIT_UNAME="hoge"
+GIT_UMAIL="hoge@example.com"
+MYREPO_ADDR="https://gitlab.com/myrepos/gatsby-starter-hello-world"
+
+# Please do not change anything from here
+SHOW_CRB_CMD="git rev-parse --abbrev-ref HEAD"
+VSCDIR="$HOME/.vscode-server"
+VSCJSON="$HOME/.vscode-server/data/Machine/settings.json"
+VSCSET='{\n\t"remote.containers.gitCredentialHelperConfigLocation": "none",\n\t"github.gitAuthentication": false\n}'
